@@ -5,7 +5,7 @@
 <img src="./src/assets/Animação.gif">
 
 
->◾ Projeto Biscoito da sorte realizado em React.js. 
+>◾ Projeto Biscoito da sorte realizado em React.js. <br>
  Como funciona: 
  Clicamos no botão e ele gera uma frase aleatória do biscoito, contendo algumas opções. 
  ◾ Focando aprender e praticar conceitos e métodos de react e javascript;
