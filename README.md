@@ -6,6 +6,7 @@
 
 
 >◾ Projeto Biscoito da sorte realizado em React.js. <br>
+<br>
  Como funciona: 
  Clicamos no botão e ele gera uma frase aleatória do biscoito, contendo algumas opções. <br>
  ◾ Focando aprender e praticar conceitos e métodos de react e javascript; <br>
