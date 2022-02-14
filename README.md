@@ -13,7 +13,7 @@
  <br>
  ◾ Focando aprender e praticar conceitos e métodos de react e javascript; <br>
  <br>
-> Alguns conhecimentos aplicados nesse projeto:
+ Alguns conhecimentos aplicados nesse projeto:
 Arrays e manipulação de seus elementos, class components, onclick, constructor.
 
 
